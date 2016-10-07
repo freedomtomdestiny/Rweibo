@@ -5,7 +5,7 @@ Author: Jian Li, Yibo Chen, sjhfx
 Description: This package provides an interface to sina weibo using
     OAuth 2.0 and cookies.
 Depends:
-    R (>= 3.3.1),
+    R (>= 3.2.3),
     methods,
     utils,
     tools,
